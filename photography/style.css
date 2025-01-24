@@ -44,7 +44,7 @@ body{
   flex-direction: column;
   justify-content: space-between;
   position: relative;
-  left:-250rem;
+  left:-200rem;
   transition: all 800ms; 
 }
 
