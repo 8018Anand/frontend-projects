@@ -3,4 +3,4 @@ Photography Website      : [https://8018anand.github.io/frontend-projects/photog
 
 rock paper scissors game : [https://8018anand.github.io/frontend-projects/rps-game/index.html]
 
-leedMetric: [https://8018anand.github.io/frontend-projects/leetMetric/index.html]
+leetMetric: [https://8018anand.github.io/frontend-projects/leetMetric/index.html]
